@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabrielCrrd.
 - 👀 I’m interested in science and sports in general.
 - 🌱 I’m currently learning how to code in htlm and css.
-- 💞️ I’m looking to collaborate on a new secret project with a friend.
+- 💞️ I’m looking to collaborate on a project with someone who is interrested in new technologies.
 - 📫 How to reach me, by eamail : gabriel.carraud@etu.estia.fr
 
 <!---
